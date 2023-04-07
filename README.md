@@ -5,7 +5,7 @@ Web Developer (React)
 ---------------------
 
 * 🌍  I'm based in Chelyabinsk
-* ✉️  You can contact me at [egmaegma02@gmail.com](mailto:egmaegma02@gmail.com)
+* ✉️  You can contact me in telegram <a href='https://t.me/n1cew0w1337'>n1cew0w1337</a>
 * 🧠  I'm learning React, Typescript, Redux
 * 🤝  I'm open to collaborating on any projects, any job
 
